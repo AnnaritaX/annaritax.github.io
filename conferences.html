@@ -1,0 +1,36 @@
+---
+layout: default
+title: Blog
+---
+<h1>Activities</h1>
+
+<table border="1" cellspacing="0" cellpadding="10">
+    {% for post in site.posts %}
+    <tr>
+        <td width="15%">
+            <img src="{{ post.main_logo }}" alt="{{ post.main_logo_alt_text }}" width="100%" align="middle">
+        </td>
+        <td>
+            {% if post.post_type == "conference" %}
+            <h3>{{ post.talk_title }}</h3>
+            conference name: <a href="{{ post.conference_link }}">{{ post.title }}</a>
+            <br>date: {{ post.date | date: '%B %d, %Y' }}
+            <br>conference location: {{ post.location }}
+            <br>language: {{ post.language }}
+            <br>video: <a href="{{ post.video }}">{{ post.video }}</a>
+            <br>slides: <a href="{{ post.slides }}">{{ post.slides }}</a>
+            <br>other links: {{ post.links }}
+            <br><br><br>Abstract: <br><i>{{ post.excerpt }}</i>
+
+            {% else if post.post_type == "article" %}
+            <h3>{{ post.article_title }}</h3>
+            site / journal: <a href="{{ post.site_link }}">{{ post.title }}</a>
+            <br>date: {{ post.date | date: '%B %d, %Y' }}
+            <br>language: {{ post.language }}
+            <br>article link: <a href="{{ post.article_link }}">{{ post.article_link }}</a>
+            <br><br><br><i>{{ post.excerpt }}</i>
+            {% endif %}
+        </td>
+    </tr>
+    {% endfor %}
+</table>
