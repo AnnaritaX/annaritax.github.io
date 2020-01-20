@@ -2,32 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="da64dde8-fdd4-4db6-9ef3-b41faf75baef" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/_data/navigation.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_includes/navigation.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_layouts/conferences.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_layouts/default.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/2016-03-19-codemotionRome.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/2016-06-06-STF16.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/2016-09-28-hcomBrownBag.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/2017-10-04-hcomBrownBag.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/2017-11-11-codemotionMilan.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/2018-05-08-codemotionAmsterdam.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/2018-09-18-meetup.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/2018-09-29-DjangoGirls.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/2018-11-13-ExpediaXTech.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/2019-03-19-Trivago.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/2019-03-23-codemotionRome.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/2019-04-02-codemotionAmsterdam.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/2019-05-23-NationalTestConfUK.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/2019-06-21-AgileODay.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/2019-09-19-codemotionWebinar.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/2019-09-24-DevTestConfNorth.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/2019-11-09-AgileDay.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/about.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/conferences.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/2017-11-30-HeatOnMedium.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -99,7 +75,7 @@
       <option name="presentableId" value="Default" />
       <updated>1579190431351</updated>
       <workItem from="1579190433228" duration="1064000" />
-      <workItem from="1579266514084" duration="17265000" />
+      <workItem from="1579266514084" duration="17743000" />
     </task>
     <servers />
   </component>
