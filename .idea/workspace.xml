@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="da64dde8-fdd4-4db6-9ef3-b41faf75baef" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/_posts/2017-11-30-HeatOnMedium.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/navigation.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/navigation.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -75,7 +75,7 @@
       <option name="presentableId" value="Default" />
       <updated>1579190431351</updated>
       <workItem from="1579190433228" duration="1064000" />
-      <workItem from="1579266514084" duration="17743000" />
+      <workItem from="1579266514084" duration="18382000" />
     </task>
     <servers />
   </component>
